@@ -3,7 +3,8 @@
 - 🌱 I’m currently working at :Different
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashika6&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Shashika's Github Stats">
+| <a href="https://github.com/shashika6"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashika6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shashika6's github stats" /></a> | <a href="https://github.com/shashika6"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashika6&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!---
 Shashika6/Shashika6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
