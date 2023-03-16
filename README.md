@@ -14,7 +14,7 @@
 ### About me
 
 - 👋 Hi, I’m Shashika 
-- 👨‍💻 I'm a software engineer
+- 👨‍💻 I'm a senior software engineer
 - 🌱 I’m currently working at :Different
 
 
