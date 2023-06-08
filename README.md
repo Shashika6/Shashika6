@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m Shashika 
 - 👨‍💻 I'm a senior software engineer
-- 🌱 I’m currently working at :Different
+- 🌱 I’m currently working at Calcey
 
 
 | <a href="https://github.com/shashika6"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashika6&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Shashika6's github stats" /></a> | <a href="https://github.com/Shashika6"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shashika6&count_private=true&hide_border=true" /></a> |
