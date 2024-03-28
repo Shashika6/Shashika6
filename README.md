@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m Shashika 
 - 👨‍💻 I'm a senior software engineer
-- 🌱 I’m currently working at Calcey
+- 🌱 I’m currently working at Lucytech - Home24
 
 
 ### Where to find me
