@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashika6)](https://github.com/shashika6/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashika6&hide_progress=true)
