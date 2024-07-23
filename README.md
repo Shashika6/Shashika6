@@ -28,5 +28,6 @@ Shashika6/Shashika6 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashika6)](https://github.com/shashika6/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashika6&hide_progress=true)
+![shashika6's Stats](https://github-readme-stats.vercel.app/api?username=shashika6&theme=default&show_icons=true&hide_border=true&count_private=true)
+![shashika6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashika6&theme=default&hide_border=true)
+![shashika6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashika6&theme=default&show_icons=true&hide_border=true&layout=compact)
