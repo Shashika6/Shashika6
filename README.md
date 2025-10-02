@@ -23,10 +23,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashikayushan/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shashika.yushan/)
 
-<!---
-Shashika6/Shashika6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-![shashika6's Stats](https://github-readme-stats.vercel.app/api?username=shashika6&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![shashika6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashika6&theme=default&hide_border=true)
